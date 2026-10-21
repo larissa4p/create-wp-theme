@@ -1,6 +1,6 @@
 # create-wp-theme
 
-CLI that scaffolds a WordPress theme with [Underscores](https://underscores.me/) + Tailwind CSS — configured and ready to use.
+CLI that scaffolds a WordPress theme with [Underscores](https://underscores.me/) + Tailwind CSS, configured and ready to use.
 
 ## Usage
 
